@@ -1,0 +1,6 @@
+@BECSystem_HostAddress = http://localhost:5260
+
+GET {{BECSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
